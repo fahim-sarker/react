@@ -1,0 +1,21 @@
+
+.banner{
+    background: url(../../assets/banner3.jpg)no-repeat center/cover;
+    padding: 300px 0;
+}
+.banner h1{
+    text-align: center;
+    font-size: 50px;
+    color: #fff;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+    padding-bottom: 30px;
+}
+span{
+    color: orangered;
+}
+.banner h3{
+    text-align: center;
+    color: #fff;
+    font-size: 35px;
+}
